@@ -7,7 +7,7 @@ const translations = {
         "nav.certifications": "Certifications",
         "nav.education": "Education",
         "nav.contact": "Contact",
-        "home.title": "Hi, I'm <span>Sachin Sanap</span>",
+        "home.title": "Hi, I'm Sachin Sanap",
         "home.subtitle": "Python Enthusiast & Web Developer (Fresher)",
         "home.description": "I build responsive websites and explore backend development with Python and PHP. Always learning and ready to take on new challenges.",
         "home.contact_btn": "Get In Touch",
